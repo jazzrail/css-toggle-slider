@@ -1,2 +1,3 @@
-#CSS Toggler
+# CSS Toggler
+
 Toggler created using just CSS.
